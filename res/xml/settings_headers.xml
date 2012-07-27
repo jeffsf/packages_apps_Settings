@@ -75,11 +75,6 @@
                 android:targetClass="com.tmobile.themechooser.ThemeChooser" />
     </header>
 
-    <header android:id="@+id/advanced_settings"
-            android:title="@string/advanced_settings_title"
-            android:icon="@drawable/ic_settings_advanced">
-    </header>
-
     <!-- DEVICE -->
     <header android:title="@string/header_category_device" />
 
